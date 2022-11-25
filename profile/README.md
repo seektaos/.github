@@ -3,7 +3,7 @@
 **下面是一些能让你快速了解我们的信息:**
 
 - 🙋‍♀️ 我们是一个热爱学习以及弘扬玄学知识的技术团队
-- 🌈 如果你想加入我们，请戳这里 👉 [入伙指南](https://github.com/seektaos/.github/blob/main/CONTRIBUTING.md)
+- 🌈 如果你想加入我们，请戳这里 👉 [入伙指南](https://github.com/seektaos/.github/blob/main/JOIN.md)
 - 👩‍💻 任重而道远，我们需要传承下去
 - 🍿 有趣的事情有很多，需要我们一起来探索
 - 🧙 还有什么要说的呢...
